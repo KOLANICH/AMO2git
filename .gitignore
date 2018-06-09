@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+*.pyo
+./AMO2Git.egg-info
+./build
+./dist
+./.eggs
